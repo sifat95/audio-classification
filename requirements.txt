@@ -1,0 +1,7 @@
+numpy
+pandas
+resampy 
+tensorflow 
+soundfile
+librosa
+pyaudio

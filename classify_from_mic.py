@@ -7,8 +7,8 @@ import numpy as np
 import pandas as pd
 
 import tensorflow as tf
-import tensorflow_hub as hub
-import tensorflow_io as tfio
+# import tensorflow_hub as hub
+# import tensorflow_io as tfio
 
 yamnet_base = './YAMNet_transfer'
 sys.path.append(yamnet_base)
@@ -18,7 +18,6 @@ import os
 # assert os.path.exists(yamnet_base)
 
 import time
-import numpy as np
 
 # audio stuff 
 import librosa
